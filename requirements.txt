@@ -1,0 +1,5 @@
+streamlit
+haystack-ai>=2.2.0
+google-genai-haystack>=1.1.0
+datasets
+python-dotenv
